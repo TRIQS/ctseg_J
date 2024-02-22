@@ -7,6 +7,7 @@ endforeach()
 # List of all tests
 set(all_tests
   ./py_spin_spin
+  dimer
 )
 
 foreach(test ${all_tests})
